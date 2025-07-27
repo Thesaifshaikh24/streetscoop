@@ -5,7 +5,7 @@ import {
   FaTruck, FaClock, FaStar, FaUserPlus, FaSearch, FaShoppingCart, 
 } from 'react-icons/fa';
 import { MdGroups, MdTrendingUp } from "react-icons/md";
-import { BsBoxSeam, BsGraphUp } from "react-icons/bs"
+import { BsBoxSeam, } from "react-icons/bs"
 
 const Home = () => {
   return (

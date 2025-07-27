@@ -1,4 +1,4 @@
-import { FaAppleAlt, FaOnion, FaOilCan, FaPepperHot, FaCarrot, FaSun } from "react-icons/fa";
+// import { FaAppleAlt, FaOnion, FaOilCan, FaPepperHot, FaCarrot, FaSun } from "react-icons/fa";
 
 
 export const productsData = [
