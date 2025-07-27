@@ -1,0 +1,48 @@
+.supplier-dashboard {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  margin-top: 70px;
+}
+
+.supplier-dashboard h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.supplier-dashboard form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.supplier-dashboard input,
+.supplier-dashboard select,
+.supplier-dashboard button,
+.supplier-dashboard textarea {
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.supplier-dashboard button {
+  background-color: #ff7a00;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.supplier-dashboard button:hover{
+  background-color: #ca6303;
+}
+
+.supplier-dashboard select {
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
