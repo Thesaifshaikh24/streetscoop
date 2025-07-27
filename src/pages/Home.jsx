@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import {
-  FaUsers, FaBox, FaChartLine, FaShieldAlt, FaDollarSign,
+  FaUsers, FaShieldAlt, FaDollarSign,
   FaTruck, FaClock, FaStar, FaUserPlus, FaSearch, FaShoppingCart, 
 } from 'react-icons/fa';
 import { MdGroups, MdTrendingUp } from "react-icons/md";

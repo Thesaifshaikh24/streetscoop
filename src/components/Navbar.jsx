@@ -1,7 +1,6 @@
 // ✅ Updated Navbar.jsx
 import React, { useContext, useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { FaShoppingCart } from 'react-icons/fa';
 import './Navbar.css';
 import { AuthContext } from '../App';
 import { signOut } from 'firebase/auth';
